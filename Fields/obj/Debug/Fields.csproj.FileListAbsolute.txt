@@ -1,0 +1,7 @@
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\bin\Debug\Fields.exe.config
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\bin\Debug\Fields.exe
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\bin\Debug\Fields.pdb
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\obj\Debug\Fields.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\obj\Debug\Fields.exe
+C:\Users\slal\Desktop\Mosh Intermediate\Fields\obj\Debug\Fields.pdb
