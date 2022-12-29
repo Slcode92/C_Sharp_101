@@ -1,0 +1,13 @@
+C:\Users\slal\Desktop\Mosh\Enums\bin\Debug\Enums.exe.config
+C:\Users\slal\Desktop\Mosh\Enums\bin\Debug\Enums.exe
+C:\Users\slal\Desktop\Mosh\Enums\bin\Debug\Enums.pdb
+C:\Users\slal\Desktop\Mosh\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh\Enums\obj\Debug\Enums.exe
+C:\Users\slal\Desktop\Mosh\Enums\obj\Debug\Enums.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\bin\Debug\Enums.exe.config
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\bin\Debug\Enums.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\bin\Debug\Enums.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\obj\Debug\Enums.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Enums\obj\Debug\Enums.pdb
