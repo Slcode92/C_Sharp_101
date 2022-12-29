@@ -1,0 +1,7 @@
+C:\Users\slal\Desktop\Mosh\Working with Directories\bin\Debug\Working with Directories.exe.config
+C:\Users\slal\Desktop\Mosh\Working with Directories\bin\Debug\Working with Directories.exe
+C:\Users\slal\Desktop\Mosh\Working with Directories\bin\Debug\Working with Directories.pdb
+C:\Users\slal\Desktop\Mosh\Working with Directories\obj\Debug\Working with Directories.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh\Working with Directories\obj\Debug\Working with Directories.csproj.CoreCompileInputs.cache
+C:\Users\slal\Desktop\Mosh\Working with Directories\obj\Debug\Working with Directories.exe
+C:\Users\slal\Desktop\Mosh\Working with Directories\obj\Debug\Working with Directories.pdb
