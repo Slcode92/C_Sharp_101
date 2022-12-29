@@ -1,0 +1,7 @@
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\bin\Debug\Indexer.exe
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\obj\Debug\Indexer.exe
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Indexer\obj\Debug\Indexer.pdb
