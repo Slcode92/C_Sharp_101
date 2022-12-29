@@ -1,0 +1,14 @@
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.exe.config
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.exe
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.pdb
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.exe
+C:\Users\slal\Desktop\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.exe.config
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\bin\Debug\ReferenceTypesAndValueTypes.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ReferenceTypesAndValueTypes\obj\Debug\ReferenceTypesAndValueTypes.pdb
