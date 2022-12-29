@@ -1,0 +1,14 @@
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Suraj\Desktop\Code\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh Intermediate\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
