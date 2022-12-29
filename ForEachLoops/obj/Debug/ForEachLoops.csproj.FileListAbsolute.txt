@@ -1,0 +1,14 @@
+C:\Users\slal\Desktop\Mosh\ForEachLoops\bin\Debug\ForEachLoops.exe.config
+C:\Users\slal\Desktop\Mosh\ForEachLoops\bin\Debug\ForEachLoops.exe
+C:\Users\slal\Desktop\Mosh\ForEachLoops\bin\Debug\ForEachLoops.pdb
+C:\Users\slal\Desktop\Mosh\ForEachLoops\obj\Debug\ForEachLoops.exe
+C:\Users\slal\Desktop\Mosh\ForEachLoops\obj\Debug\ForEachLoops.pdb
+C:\Users\slal\Desktop\Mosh\ForEachLoops\obj\Debug\ForEachLoops.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh\ForEachLoops\obj\Debug\ForEachLoops.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\bin\Debug\ForEachLoops.exe.config
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\bin\Debug\ForEachLoops.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\bin\Debug\ForEachLoops.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\obj\Debug\ForEachLoops.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\obj\Debug\ForEachLoops.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\obj\Debug\ForEachLoops.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\ForEachLoops\obj\Debug\ForEachLoops.pdb
