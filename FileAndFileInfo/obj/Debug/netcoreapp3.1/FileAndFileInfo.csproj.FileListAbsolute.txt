@@ -1,0 +1,13 @@
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.exe
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.deps.json
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.runtimeconfig.json
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.runtimeconfig.dev.json
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.dll
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\bin\Debug\netcoreapp3.1\FileAndFileInfo.pdb
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.AssemblyInfoInputs.cache
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.AssemblyInfo.cs
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.dll
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.pdb
+C:\Users\slal\Desktop\Mosh\FileAndFileInfo\obj\Debug\netcoreapp3.1\FileAndFileInfo.genruntimeconfig.cache
