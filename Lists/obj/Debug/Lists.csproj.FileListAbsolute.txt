@@ -1,0 +1,21 @@
+C:\Users\slal\Desktop\Mosh\Lists\bin\Debug\Lists.exe.config
+C:\Users\slal\Desktop\Mosh\Lists\bin\Debug\Lists.exe
+C:\Users\slal\Desktop\Mosh\Lists\bin\Debug\Lists.pdb
+C:\Users\slal\Desktop\Mosh\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\slal\Desktop\Mosh\Lists\obj\Debug\Lists.exe
+C:\Users\slal\Desktop\Mosh\Lists\obj\Debug\Lists.pdb
+C:\Users\slal\Desktop\Mosh\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh\Lists\bin\Debug\Lists.exe.config
+C:\Users\suraj\Desktop\Code\Mosh\Lists\bin\Debug\Lists.exe
+C:\Users\suraj\Desktop\Code\Mosh\Lists\bin\Debug\Lists.pdb
+C:\Users\suraj\Desktop\Code\Mosh\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\Code\Mosh\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh\Lists\obj\Debug\Lists.exe
+C:\Users\suraj\Desktop\Code\Mosh\Lists\obj\Debug\Lists.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\bin\Debug\Lists.exe.config
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\bin\Debug\Lists.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\bin\Debug\Lists.pdb
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\obj\Debug\Lists.exe
+C:\Users\suraj\Desktop\Code\Mosh c#\Mosh\Lists\obj\Debug\Lists.pdb
